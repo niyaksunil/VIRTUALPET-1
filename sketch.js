@@ -54,7 +54,6 @@ function readStock(data){
 
 }
 
-
 // created function writeStock 
 function writeStock(x){
 
@@ -88,7 +87,7 @@ function keyPressed(){
       database.ref('/').update({ Food:30 });
     }
   }
-  
+
 }
 
 
@@ -101,5 +100,3 @@ function keyReleased(){
   }
 
 }
-
-
