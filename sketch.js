@@ -1,7 +1,7 @@
 //Created variables here
 var dog, happyDog,dogImg,happyDogImg;
-var database;
-var stock,foodStock;
+var database,foodStock;
+var stock = 0;
 
 function preload(){
 
